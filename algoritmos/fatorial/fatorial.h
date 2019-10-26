@@ -1,4 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-int fatorial (int parametro);
+unsigned long long int fatorial (int parametro);

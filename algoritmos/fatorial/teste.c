@@ -3,5 +3,5 @@
 void main () {
     int i;
     scanf("%i", &i);
-    printf("%i\n", fatorial(i));
+    printf("%lli\n", fatorial(i));
 }
